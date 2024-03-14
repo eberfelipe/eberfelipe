@@ -55,16 +55,9 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=eberfelipe&show_icons=true&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberfelipe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
 
-<!-- Portfolio -->
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
-
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBiaTgyc2VteWx4NnZhZzdsejYydnNqcjQzaHFyaHRlYnhzY211eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TA0THP5s3EYPRAFGKr/giphy.gif" alt="Imagem">
 </p>
 
 
