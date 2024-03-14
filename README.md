@@ -5,25 +5,29 @@
 </div>
 
 <!-- Presentation -->
-<p>
-  Hi 👋, I'm Eber! a Brazilian programming student in Canada.
-
-  - 🌱 I’m currently studying Computer Programming at Niagara College. 
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work in software engineering.
-</p>
-
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 Currently living in Canada. I have fluency in English and have experience with SQL, Python, JavaScript, NodeJs, C#, Java, TypeScript. Quick to learn and passionate about solving problems, I'm ready to tackle challenges that expand my skills and contribute to innovative projects.
-
-  - ⚡ In my free time, I enjoy cooking, sitting at the table with friends, eating good food, spending time with my wife, and I'm very fond of movies and games.
-
- \o/
-</details>
+<table border="0" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- Primeira Coluna com Texto -->
+    <td width="80%" valign="top">
+      <p>
+        Hi 👋, I'm Eber! a Brazilian programming student in Canada.
+      </p>
+      <ul>
+        <li>🌱 I’m currently studying Computer Programming at Niagara College.</li>
+        <li>🔭 I am looking for my first job opportunity. My dream is to one day work in software engineering.</li>
+        <li>💬 Currently living in Canada. I have fluency in English and have experience with SQL, Python, JavaScript, NodeJs, C#, Java, TypeScript. Quick to learn and passionate about solving problems, I'm ready to tackle challenges that expand my skills and contribute to innovative projects.
+</li> 
+        <li>⚡ In my free time, I enjoy cooking, sitting at the table with friends, eating good food, spending time with my wife, and I'm very fond of movies and games.</li>
+      </ul>
+    </td>
+    <!-- Segunda Coluna com Imagem do Spotify GitHub Profile -->
+    <td width="20%" valign="top">
+      <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=8m9cea5vlv4f9u04gu27mvd1w&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=8m9cea5vlv4f9u04gu27mvd1w&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 Skills
 <div align="left">
