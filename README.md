@@ -51,12 +51,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eberfelipee/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eber-felipe/?locale=en_US)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=eberfelipe&show_icons=true&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberfelipe&locale=en&hide_title=false&layout=compact&card_width=335&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
+<table border="0" style="border.none" align="center">
+  <tr>
+    <td>
+      <!-- GitHub stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=eberfelipe&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      <br />
+      <!-- Card de linguagens -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberfelipe&locale=en&hide_title=false&layout=compact&card_width=335&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />    </td>
+    <!-- Segunda coluna para o GIF -->
+    <td>
+      <img src="https://media.giphy.com/media/TA0THP5s3EYPRAFGKr/giphy.gif" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
-<!-- GIF -->
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBiaTgyc2VteWx4NnZhZzdsejYydnNqcjQzaHFyaHRlYnhzY211eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TA0THP5s3EYPRAFGKr/giphy.gif" alt="Imagem">
 
 
 
