@@ -56,9 +56,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberfelipe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
 
 <!-- GIF -->
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBiaTgyc2VteWx4NnZhZzdsejYydnNqcjQzaHFyaHRlYnhzY211eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TA0THP5s3EYPRAFGKr/giphy.gif" alt="Imagem">
-</p>
+  <img align="rigth" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBiaTgyc2VteWx4NnZhZzdsejYydnNqcjQzaHFyaHRlYnhzY211eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TA0THP5s3EYPRAFGKr/giphy.gif" alt="Imagem">
+
 
 
 
