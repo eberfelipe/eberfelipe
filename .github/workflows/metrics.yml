@@ -34,6 +34,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          # Drop markup/config noise so the real programming stack stands out
+          plugin_languages_ignored: >-
+            html, css, scss, makefile, dockerfile, procfile,
+            jupyter notebook, roff, batchfile, mako, hcl, tex, dotenv
 
           # Lines of code changed
           plugin_lines: yes
