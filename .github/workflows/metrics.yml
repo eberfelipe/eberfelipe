@@ -1,0 +1,39 @@
+name: GitHub metrics
+
+on:
+  # Regenerate daily and whenever you trigger it manually
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          # Personal Access Token (classic) with the "repo" scope.
+          # The "repo" scope is what lets metrics count your PRIVATE work,
+          # so the card shows real numbers instead of public-only stats.
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: eberfelipe
+          filename: github-metrics.svg
+          template: classic
+          base: header
+          config_timezone: America/Sao_Paulo
+
+          # Contribution calendar — full year, includes private contributions
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Top languages — your real stack (private repos included via the PAT)
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          # Lines of code changed
+          plugin_lines: yes

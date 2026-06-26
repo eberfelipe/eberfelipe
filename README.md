@@ -1,76 +1,72 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
-</div>
+<h1 align="center">Hello World! I'm Eber 👋</h1>
+<p align="center"><b>Lead &amp; Software Engineer</b> · backend &amp; data platforms · multi-tenant SaaS · AI agents</p>
 
-<!-- Presentation -->
-<table border="0" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Primeira Coluna com Texto -->
-    <td width="80%" valign="top">
-      <p>
-        Hi 👋, I'm Eber! a Brazilian programming student in Canada.
-      </p>
-      <ul>
-        <li>🌱 I’m currently studying Computer Programming at Niagara College.</li>
-        <li>🔭 I am looking for my first job opportunity. My dream is to one day work in software engineering.</li>
-        <li>💬 Currently living in Canada. I have fluency in English and have experience with SQL, Python, JavaScript, NodeJs, C#, Java, TypeScript. Quick to learn and passionate about solving problems, I'm ready to tackle challenges that expand my skills and contribute to innovative projects.
-</li> 
-        <li>⚡ In my free time, I enjoy cooking, sitting at the table with friends, eating good food, spending time with my wife, and I'm very fond of movies and games.</li>
-      </ul>
-    </td>
-    <!-- Segunda Coluna com Imagem do Spotify GitHub Profile -->
-    <td width="20%" valign="top">
-      <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=8m9cea5vlv4f9u04gu27mvd1w&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=8m9cea5vlv4f9u04gu27mvd1w&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  Brazilian engineer building the systems behind multi-tenant, franchise-scale
+  operations — data pipelines, messaging automation and AI agents — mostly in
+  <b>Go</b>, <b>Python</b> and <b>TypeScript</b> on PostgreSQL.
+  I graduated from "Hello World" to "why is prod doing that at 2&nbsp;a.m." — and I'm here for it.
+</p>
 
-## 🔥 Skills
+<ul>
+  <li>🛠️ Shipping data/BI platforms, WhatsApp campaign systems &amp; AI agents at scale.</li>
+  <li>🧊 Most of my work lives in private, proprietary systems — the public trail is the tip of the iceberg.</li>
+  <li>🎓 Computer Engineering @ UAB (Portugal) · once a programming student in Canada (Niagara College).</li>
+  <li>🍳 Off the clock: cooking, a full table of friends, movies, games — and my wife tolerating all of it.</li>
+</ul>
+
+## 🧱 What I build
+
+| Domain | What it means | Stack |
+|---|---|---|
+| **Data platforms** | ETL/ELK ingestion, Postgres modeling, observability | Python · PostgreSQL · ELK · Docker |
+| **Multi-tenant SaaS** | tenant isolation, RLS, auth, quotas | Go · Postgres/RLS · SuperTokens · React |
+| **Messaging & automation** | WhatsApp at scale, inbound bots, scraping | Chatwoot · Playwright |
+| **AI agents** | reason engines, message composition, tracing | OpenAI · Langfuse |
+
+## 🔥 Stack
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="34" alt="Go" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34" alt="Supabase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="34" alt="Elasticsearch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
 </div>
 
-###
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eberfelipee/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eber-felipe/?locale=en_US)
+## 📈 Activity
 
-<table align="center" border="0" style="border:none; margin-left:auto; margin-right:auto;">
-  <tr>
-    <td>
-      <!-- GitHub stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=eberfelipe&show_icons=true&theme=dracula" alt="GitHub Stats" />
-      <br />
-      <!-- Card de linguagens -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eberfelipe&locale=en&hide_title=false&layout=compact&card_width=335&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />    </td>
-    <!-- Segunda coluna para o GIF -->
-    <td>
-      <img src="https://media.giphy.com/media/TA0THP5s3EYPRAFGKr/giphy.gif" alt="GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=eberfelipe&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eberfelipe&theme=github-compact&hide_border=true&area=true" alt="Contribution timeline" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/TA0THP5s3EYPRAFGKr/giphy.gif" alt="no no" />
+</p>
 
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/eber-felipe/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/eberfelipee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
