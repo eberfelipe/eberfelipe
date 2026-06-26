@@ -59,6 +59,10 @@
 </p>
 
 <p align="center">
+  <img src="github-metrics.svg" alt="GitHub metrics — contributions calendar, top languages and lines of code (private included)" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eberfelipe&theme=github-compact&hide_border=true&area=true" alt="Contribution timeline" />
 </p>
 
